@@ -20,4 +20,4 @@ Fields of interest
 
 Contact
 ======
-mguillot@uliege.be
+- mguillot@uliege.be
