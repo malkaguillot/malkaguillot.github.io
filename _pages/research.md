@@ -5,7 +5,8 @@ permalink: /research/
 [//]: # author_profile: true
 ---
 
-## Publications in refereed journals
+Publications in refereed journals
+======
 
 - [Designing Housing Benefits: An Application with French Data](https://www.cairn.info/revue-economie-et-prevision.htm) with Antoine Bozio, Marion Monnet and Lucile Romanello; Economie et Prévision, No 211-212, 2018
 
@@ -18,7 +19,8 @@ permalink: /research/
 ___
 
 
-## Working papers
+Working papers
+======
 
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
   with Julia Cagé (Science po).
@@ -44,7 +46,8 @@ ___
 ___
 
 
-## Work in progress
+Work in progress
+======
 
 - *Journalism Quality*,
   with Elliott Ash, Julia Cagé and Nicolas Hervé
@@ -54,7 +57,8 @@ ___
 ___
 
 
-## Reports and policy briefs
+Reports and policy briefs
+======
 
 - *Reforming French housing benefits*,
   with Antoine Bozio, Gabrielle Fack, Julien Grenet, Marion Monnet and Lucile Romanello, Rapport IPP 10, 2015.
@@ -75,7 +79,8 @@ ___
 ___
 
 
-## Book
+Book
+======
 
 - *​​Les allocations logement. Comment les réformer ?*,
   with Antoine Bozio, Gabrielle Fack, Julien Grenet, Marion Monnet and Lucile Romanello,
