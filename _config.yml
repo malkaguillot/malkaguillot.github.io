@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Assistant professor"
   location         : "Belgium"
-  employer         :  "HEC Liège"
-  pubmed           : ""
+  employer         : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=BxHBDeQAAAAJ&hl=en"
   email            : "mguillot@uliege.be"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
