@@ -25,6 +25,6 @@ Contact
 
 [mguillot@uliege.be]()
 
-Bât. B31 Microéconomie appliquée
-Place des Orateurs 3
+Bât. B31 Microéconomie appliquée\
+Place des Orateurs 3\
 4000 Liège - Belgique
