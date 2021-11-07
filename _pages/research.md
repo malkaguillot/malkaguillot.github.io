@@ -24,24 +24,22 @@ Working papers
 
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
   with Julia Cagé (Science po).
-  - Working paper
+  - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
 
 - *Tax Incidence Among the Working Superrich. Evidence From the French 75% Tax on Millionaires*,
-  - Working paper, slides
+  - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412261), [slides](https://www.dropbox.com/s/tbb8ha8opydcemv/guillot2020_75tax_slides_handout.pdf?dl=0)
 
 - *Predistribution vs. Redistribution: Evidence from France and the U.S.*,
   with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas
-  - CEPR WP, October 2020
-  - WIL working paper, September 2018
-  - IPP-WIL Policy Brief, September 2018
-  - Selected press coverage: Le 1 hebdo, Le Monde, France info
+  - [CEPR WP](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
+  - [WIL working paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018
+  - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
+  - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
 
 - *The Contribution of Payroll Taxation to Wage Inequality in France*,
   with Antoine Bozio and Thomas Breda
-  - Web application
-  - Press coverage: EEA media briefing
-  - PSE working paper, March 2016
-  - IZA Discussion Paper No. 13317, June 2020
+  - [Web application](https://payroll-tax-inequality-app.herokuapp.com/)
+  - [IZA Discussion Paper No. 13317](https://ftp.iza.org/dp13317.pdf), June 2020
 
 ___
 
