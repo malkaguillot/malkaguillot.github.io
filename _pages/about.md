@@ -9,17 +9,17 @@ redirect_from:
 ---
 
 Position
-======
+------
 
 - Assistant professor - HEC LIège, Université de Liège, Belgique.
 - Research affiliate at the Institut des politiques publiques (IPP) - Paris, France.
 
 Research interests
-======
+------
 - Public Finance
 - Labor Economics
 
 Contact
-======
+------
 
 - mguillot@uliege.be
