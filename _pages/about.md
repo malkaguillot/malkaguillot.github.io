@@ -19,7 +19,12 @@ Research interests
 - Public Finance
 - Labor Economics
 
+
 Contact
 ------
 
-- mguillot@uliege.be
+[mguillot@uliege.be]()
+
+Bât. B31 Microéconomie appliquée
+Place des Orateurs 3
+4000 Liège - Belgique
