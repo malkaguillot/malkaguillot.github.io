@@ -6,7 +6,7 @@ permalink: /teaching/
 ---
 
 - 2021 - 2022:
-  - [Data management](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2306-1.html) (graduate) 
+  - [Data management](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2306-1.html) (graduate): [github page](https://malkaguillot.github.io/ECON2206-Data-Management-2022/) 
   - [Time series](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2305-1.html) (graduate) 
   - [Industrial microeconomics](https://www.programmes.uliege.be/cocoon/20212022/cours/ECON2259-1.html) (undergraduate) 
 
