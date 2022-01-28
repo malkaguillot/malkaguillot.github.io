@@ -6,8 +6,8 @@ permalink: /teaching/
 ---
 
 - 2021 - 2022:
-  - [Data management](https://www.programmes.uliege.be/cocoon/20212022/cours/ECON2306-1.html) (graduate) 
-  - [Time series](https://www.programmes.uliege.be/cocoon/20212022/cours/ECON2305-1.html) (graduate) 
+  - [Data management](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2306-1.html) (graduate) 
+  - [Time series](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2305-1.html) (graduate) 
   - [Industrial microeconomics](https://www.programmes.uliege.be/cocoon/20212022/cours/ECON2259-1.html) (undergraduate) 
 
 - Summer 2021: Summer Institute in *[Computational Social Sciences](https://sicss.io/2021/ethzurich/)*
