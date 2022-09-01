@@ -11,7 +11,7 @@ redirect_from:
 Position
 ------
 
-- Assistant professor - HEC LIège, Université de Liège, Belgique.
+- Assistant professor - HEC Liège, Université de Liège, Belgique.
 - Research affiliate at the Institut des politiques publiques (IPP) - Paris, France.
 
 Research interests
@@ -25,6 +25,6 @@ Contact
 
 [mguillot@uliege.be]()
 
-Bât. B31 Microéconomie appliquée\
-Place des Orateurs 3\
+Bât. N1 UER Economie\
+Rue Louvrex 14\
 4000 Liège - Belgique
