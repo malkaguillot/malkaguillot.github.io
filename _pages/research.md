@@ -25,13 +25,15 @@ Working papers
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
   with Julia Cagé (Science po).
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
+  - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
+  - [VoxEU column](https://cepr.org/voxeu/columns/wealthy-donors-give-charities-partly-political-reasons)
 
 - *Tax Incidence Among the Working Superrich. Evidence From the French 75% Tax on Millionaires*,
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412261), [slides](https://www.dropbox.com/s/tbb8ha8opydcemv/guillot2020_75tax_slides_handout.pdf?dl=0)
 
 - *Predistribution vs. Redistribution: Evidence from France and the U.S.*,
   with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas
-  - [CEPR WP](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
+  - [CEPR Discussion paper #15415](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
   - [WIL working paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018
   - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
   - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
