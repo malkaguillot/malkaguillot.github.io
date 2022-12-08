@@ -8,7 +8,7 @@ permalink: /teaching/
 - 2022 - :
   - [Public policy seminar](https://www.programmes.uliege.be/cocoon/20222023/cours/ECON2310-1.html) (graduate)
 - 2021 - :
-  - [Data management](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2306-1.html) (graduate): [github page 2022](https://malkaguillot.github.io/ECON2206-Data-Management-2022/), [github page 2023](https://malkaguillot.github.io/ECON2206-Data-Management-2023/) 
+  - [Data management](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2306-1.html) (graduate): [github page 2022](https://malkaguillot.github.io/ECON2206-Data-Management-2022/), [github page 2023](https://malkaguillot.github.io/ECON2206-Data-Management/) 
   - [Time series](https://www.programmes.uliege.be/cocoon/20222023/cours/ECON2308-1.html) (graduate) 
   - [Microeconomics & industrial economics](https://www.programmes.uliege.be/cocoon/20212022/cours/ECON2259-1.html) (undergraduate) 
 
