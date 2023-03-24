@@ -14,7 +14,7 @@ Publications in refereed journals
 
 - [French public finances through the financial crisis: it's a long way to recovery](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-5890.2015.12075) with Mathias André, Antoine Bozio and Louise Paul-Delvaux, Fiscal Studies, Vol. 36, No. 4, December 2015.
 
-- [​The inner quality of an article: Will time tell?](https://link.springer.com/article/10.1007/s11192-015-1581-y) with Ho Fai Chan, Lionel Page and Benno Torgler, Scientometrics, Vol. 104, Issue 1 pp 19-41, July 2015.
+- [The inner quality of an article: Will time tell?](https://link.springer.com/article/10.1007/s11192-015-1581-y) with Ho Fai Chan, Lionel Page and Benno Torgler, Scientometrics, Vol. 104, Issue 1 pp 19-41, July 2015.
 
 ___
 
@@ -26,7 +26,9 @@ Working papers
   with Julia Cagé (Science po).
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
   - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
+  - [IPP policy brief](https://www.ipp.eu/publication/comportement-des-donateurs-fortunes-le-poids-des-motivations-politiques/)
   - [VoxEU column](https://cepr.org/voxeu/columns/wealthy-donors-give-charities-partly-political-reasons)
+  - Press coverage: [Le Monde](https://www.lemonde.fr/politique/article/2023/03/14/les-dons-philanthropiques-un-outil-politique-pour-les-plus-fortunes_6165378_823448.html), [Les Echos](https://www.lesechos.fr/economie-france/budget-fiscalite/comment-la-reforme-de-lisf-a-modifie-le-comportement-des-riches-donateurs-1914872)
 
 - *Tax Incidence Among the Working Superrich. Evidence From the French 75% Tax on Millionaires*,
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412261), [slides](https://www.dropbox.com/s/tbb8ha8opydcemv/guillot2020_75tax_slides_handout.pdf?dl=0)
