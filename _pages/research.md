@@ -28,7 +28,7 @@ Working papers
   - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
   - [IPP policy brief](https://www.ipp.eu/publication/comportement-des-donateurs-fortunes-le-poids-des-motivations-politiques/)
   - [VoxEU column](https://cepr.org/voxeu/columns/wealthy-donors-give-charities-partly-political-reasons)
-  - Press coverage: [Le Monde](https://www.lemonde.fr/politique/article/2023/03/14/les-dons-philanthropiques-un-outil-politique-pour-les-plus-fortunes_6165378_823448.html), [Les Echos](https://www.lesechos.fr/economie-france/budget-fiscalite/comment-la-reforme-de-lisf-a-modifie-le-comportement-des-riches-donateurs-1914872)
+  - Press coverage: [Le Monde](https://www.lemonde.fr/politique/article/2023/03/14/les-dons-philanthropiques-un-outil-politique-pour-les-plus-fortunes_6165378_823448.html), [Les Echos](https://www.lesechos.fr/economie-france/budget-fiscalite/comment-la-reforme-de-lisf-a-modifie-le-comportement-des-riches-donateurs-1914872), [datagora](https://datagora.fr/#/categorie/economie/1edce088-96a9-6e98-a4e1-d97e99002162)
 
 - *Tax Incidence Among the Working Superrich. Evidence From the French 75% Tax on Millionaires*,
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412261), [slides](https://www.dropbox.com/s/tbb8ha8opydcemv/guillot2020_75tax_slides_handout.pdf?dl=0)
