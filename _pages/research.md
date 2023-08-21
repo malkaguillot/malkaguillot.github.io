@@ -21,6 +21,17 @@ ___
 
 Working papers
 ------
+- *Predistribution vs. Redistribution: Evidence from France and the U.S.*,
+  with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas, **Conditionally Accepted AEJ Applied Economics**
+  - [CEPR Discussion paper #15415](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
+  - [WIL working paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018
+  - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
+  - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
+
+- *The Contribution of Payroll Taxation to Wage Inequality in France*,
+  with Antoine Bozio and Thomas Breda, **Conditionally Accepted Journal of Public Economics**
+  - [Web application](https://payroll-tax-inequality-app.herokuapp.com/)
+  - [IZA Discussion Paper No. 13317](https://ftp.iza.org/dp13317.pdf), June 2020
 
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
   with Julia Cagé (Science po).
@@ -33,18 +44,6 @@ Working papers
 - *Tax Incidence Among the Working Superrich. Evidence From the French 75% Tax on Millionaires*,
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412261), [slides](https://www.dropbox.com/s/tbb8ha8opydcemv/guillot2020_75tax_slides_handout.pdf?dl=0)
 
-- *Predistribution vs. Redistribution: Evidence from France and the U.S.*,
-  with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas
-  - [CEPR Discussion paper #15415](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
-  - [WIL working paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018
-  - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
-  - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
-
-- *The Contribution of Payroll Taxation to Wage Inequality in France*,
-  with Antoine Bozio and Thomas Breda
-  - [Web application](https://payroll-tax-inequality-app.herokuapp.com/)
-  - [IZA Discussion Paper No. 13317](https://ftp.iza.org/dp13317.pdf), June 2020
-
 ___
 
 
@@ -55,6 +54,16 @@ Work in progress
   with Elliott Ash, Julia Cagé and Nicolas Hervé
 - *Institutional Determinants of Tax Complexity: Evidence from the US State Legislated Text*,
   with Elliott Ash​
+
+___
+
+
+Projects
+------
+
+- Project partner "Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry". Sinergia Project joint with Elliott Ash (ETH), Marco d'Ambros (USI) and Tina Freyburg (UNISG).
+- Project partner "Tax-benefit design and family composition: trading off efficiency and equity". ARC Project (Saint-Louis University Bruxelles) joint with Marc Bourgeois (Liège University), Koen Declercq (USLB), Sabine Garoy (Liège University) Hélène Latzer (USLB), Tom Truyts (USLB).
+
 
 ___
 
