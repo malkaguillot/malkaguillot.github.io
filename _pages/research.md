@@ -8,6 +8,8 @@ permalink: /research/
 Publications in refereed journals
 ------
 
+-- [The Contribution of Payroll Taxation to Wage Inequality in France]()  with Antoine Bozio and Thomas Breda, Conditionally Accepted Journal of Public Economics
+
 - [Designing Housing Benefits: An Application with French Data](https://www.cairn.info/revue-economie-et-prevision.htm) with Antoine Bozio, Marion Monnet and Lucile Romanello; Economie et Prévision, No 211-212, 2018
 
 - [Portée et limites du modèle Taxipp pour l’analyse redistributive des prélèvements obligatoires](http://www.insee.fr/fr/ffc/docs_ffc/ES481B.pdf) with Antoine Bozio and Quentin Lafféter; Economie et Statistique, No. 481-482, pp. 39-53, December 2015.
@@ -29,7 +31,7 @@ Working papers
   - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
 
 - *The Contribution of Payroll Taxation to Wage Inequality in France*,
-  with Antoine Bozio and Thomas Breda, **Conditionally Accepted Journal of Public Economics**
+  with Antoine Bozio and Thomas Breda, 
   - [Web application](https://payroll-tax-inequality-app.herokuapp.com/)
   - [IZA Discussion Paper No. 13317](https://ftp.iza.org/dp13317.pdf), June 2020
 
