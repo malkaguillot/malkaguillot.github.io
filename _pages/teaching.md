@@ -5,6 +5,8 @@ permalink: /teaching/
 [//]: # author_profile: true
 ---
 
+**Office hours**: Master students from HEC Liège can book a 1:1 meeting with me [here](https://doodle.com/meeting/organize/id/bqZyxo0d). 
+
 - 2022 - :
   - [Public policy seminar](https://www.programmes.uliege.be/cocoon/20222023/cours/ECON2310-1.html) (graduate)
 - 2021 - :
