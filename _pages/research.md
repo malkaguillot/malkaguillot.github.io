@@ -8,7 +8,7 @@ permalink: /research/
 Publications in refereed journals
 ------
 
--- [The Contribution of Payroll Taxation to Wage Inequality in France]()  with Antoine Bozio and Thomas Breda, Conditionally Accepted Journal of Public Economics
+- [The Contribution of Payroll Taxation to Wage Inequality in France](https://www.sciencedirect.com/journal/journal-of-public-economics/vol/226/suppl/C)  with Antoine Bozio and Thomas Breda, Journal of Public Economics, Vol. 226, October 2023, 104986.
 
 - [Designing Housing Benefits: An Application with French Data](https://www.cairn.info/revue-economie-et-prevision.htm) with Antoine Bozio, Marion Monnet and Lucile Romanello; Economie et Prévision, No 211-212, 2018
 
