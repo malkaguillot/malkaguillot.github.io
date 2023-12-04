@@ -30,11 +30,6 @@ Working papers
   - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
   - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
 
-- *The Contribution of Payroll Taxation to Wage Inequality in France*,
-  with Antoine Bozio and Thomas Breda, 
-  - [Web application](https://payroll-tax-inequality-app.herokuapp.com/)
-  - [IZA Discussion Paper No. 13317](https://ftp.iza.org/dp13317.pdf), June 2020
-
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
   with Julia Cagé (Science po).
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
@@ -72,6 +67,8 @@ ___
 
 Reports and policy briefs
 ------
+
+- *Inequality in France: 1968–2022* with Antoine Bozio, Lukas Puschnig and Maxime Tô, Report in the context of the Institute for fiscal studies Deaton Review, 2023.
 
 - *Reforming French housing benefits*,
   with Antoine Bozio, Gabrielle Fack, Julien Grenet, Marion Monnet and Lucile Romanello, Rapport IPP 10, 2015.
