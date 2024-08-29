@@ -11,7 +11,8 @@ redirect_from:
 Position
 ------
 
-- Assistant professor - HEC Liège, Université de Liège, Belgique.
+- Associate professor - HEC Liège, Université de Liège, Belgique.
+- Invited researcher at the Center for Applied Public Economics (CAPE) at the UCLouvain Saint-Louis - Bruxelles
 - Research affiliate at the Institut des politiques publiques (IPP) - Paris, France.
 
 Research interests
