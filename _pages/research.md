@@ -8,6 +8,14 @@ permalink: /research/
 Publications in refereed journals
 ------
 
+- What lies behind France’s low level of income inequality? with Bozio Antoine, Tô Maxime and Puschnig Lukas, Fiscal Studies, Forthcoming. 
+
+- [Predistribution vs. Redistribution: Evidence from France and the U.S.]([https://www.sciencedirect.com/journal/journal-of-public-economics/vol/226/suppl/C](https://www.aeaweb.org/articles?id=10.1257/app.20220023))  with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas, AEJ Applied Economics, Vol. 16, N°2, April 2024.
+  - [CEPR Discussion paper #15415](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
+  - [WIL working paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018
+  - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
+  - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
+
 - [The Contribution of Payroll Taxation to Wage Inequality in France](https://www.sciencedirect.com/journal/journal-of-public-economics/vol/226/suppl/C)  with Antoine Bozio and Thomas Breda, Journal of Public Economics, Vol. 226, October 2023, 104986.
 
 - [Designing Housing Benefits: An Application with French Data](https://www.cairn.info/revue-economie-et-prevision.htm) with Antoine Bozio, Marion Monnet and Lucile Romanello; Economie et Prévision, No 211-212, 2018
@@ -23,12 +31,6 @@ ___
 
 Working papers
 ------
-- *Predistribution vs. Redistribution: Evidence from France and the U.S.*,
-  with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas, **Conditionally Accepted AEJ Applied Economics**
-  - [CEPR Discussion paper #15415](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
-  - [WIL working paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018
-  - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
-  - Selected press coverage: Le 1 hebdo, [Le Monde](https://www.lemonde.fr/economie/article/2018/09/25/inegalites-les-faiblesses-du-modele-francais_5359927_3234.html), [France info](https://www.francetvinfo.fr/replay-magazine/franceinfo/l-eco/video-jonathan-goupille-lebret-la-redistribution-fiscale-a-permis-de-contrecarrer-l-augmentation-des-inegalites-en-france_2956469.html)
 
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
   with Julia Cagé (Science po).
@@ -47,6 +49,8 @@ ___
 Work in progress
 ------
 
+- *The Effect of Tax Incentives on Firms’ Charitable Donations in France*; with Julia CAGE, Agathe DENIS and Camille URVOY. 
+- *Wage Incidence: Evidence from a Sectoral Tax in France*, with Sophie Cottet 
 - *Journalism Quality*,
   with Elliott Ash, Julia Cagé and Nicolas Hervé
 - *Institutional Determinants of Tax Complexity: Evidence from the US State Legislated Text*,
