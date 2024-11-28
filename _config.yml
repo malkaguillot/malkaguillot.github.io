@@ -86,6 +86,16 @@ author:
   avatar           : "profile.png"
   bio              : "Associate professor"
   location         : "Belgium"
+  links:
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/malkaguillot"
+    - label: "Google Scholar"
+      icon: "fa fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=BxHBDeQAAAAJ"      
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/mgn89.bsky.social"  
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=BxHBDeQAAAAJ&hl=en"
