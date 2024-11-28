@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+bsky:
+  username               : &bsky
 facebook:
   username               :
   app_id                 :
@@ -82,7 +84,7 @@ analytics:
 author:
   name             : "Malka Guillot"
   avatar           : "profile.png"
-  bio              : "Assistant professor"
+  bio              : "Associate professor"
   location         : "Belgium"
   employer         : 
   pubmed           :
@@ -110,6 +112,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "MalkaGuillot"
+  bsky             : "mgn89"
   vine             :
   weibo            :
   xing             :
