@@ -10,7 +10,7 @@ Publications in refereed journals
 
 - What lies behind France’s low level of income inequality? with Bozio Antoine, Tô Maxime and Puschnig Lukas, Fiscal Studies, Forthcoming. 
 
-- [Predistribution vs. Redistribution: Evidence from France and the U.S.]([https://www.sciencedirect.com/journal/journal-of-public-economics/vol/226/suppl/C](https://www.aeaweb.org/articles?id=10.1257/app.20220023))  with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas, AEJ Applied Economics, Vol. 16, N°2, April 2024.
+- [Predistribution vs. Redistribution: Evidence from France and the U.S.](https://www.aeaweb.org/articles?id=10.1257/app.20220023)  with Bozio Antoine, Bertrand Garbinti, Goupille-Lebret Jonathan and Piketty Thomas, AEJ Applied Economics, Vol. 16, N°2, April 2024.
   - [CEPR Discussion paper #15415](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020
   - [WIL working paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018
   - [IPP-WIL Policy Brief](https://wid.world/document/trois-decennies-inegalites-et-redistribution-en-france-1990-2018-wid-world-issue-brief-2018-2/), September 2018
