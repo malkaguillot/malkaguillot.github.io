@@ -32,8 +32,11 @@ ___
 Working papers
 ------
 
+- *The Effect of Tax Incentives on Firms’ Charitable Donations in France*; with Julia CAGE (Sciences Po Paris), Agathe DENIS (Sciences Po Paris), Simon Muchard (Université Paris Dauphine-PSL, University of Copenhagen) and Camille URVOY (University of Mannheim). 
+  - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5420274)
+
 - *Should Charitable and Political Donations Benefit from Similar Tax Treatments? Evidence from a Survey Experiment*,
-  with Julia Cagé (Science po) and Yuchen Huang (Université de Liège).
+  with Julia Cagé (Sciences Po Paris) and Yuchen Huang (Université de Liège).
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5420135)
 
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
@@ -53,7 +56,6 @@ ___
 Work in progress
 ------
 
-- *The Effect of Tax Incentives on Firms’ Charitable Donations in France*; with Julia CAGE, Agathe DENIS and Camille URVOY. 
 - *Wage Incidence: Evidence from a Sectoral Tax in France*, with Sophie Cottet 
 - *Journalism Quality*,
   with Elliott Ash, Julia Cagé and Nicolas Hervé
