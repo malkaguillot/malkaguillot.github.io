@@ -32,8 +32,12 @@ ___
 Working papers
 ------
 
+- *Should Charitable and Political Donations Benefit from Similar Tax Treatments? Evidence from a Survey Experiment*,
+  with Julia Cagé (Science po) and Yuchen Huang (Université de Liège). R&R Journal of Public Economics
+  - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5420135)
+
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
-  with Julia Cagé (Science po).
+  with Julia Cagé (Science po). R&R Journal of Public Economics
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
   - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
   - [IPP policy brief](https://www.ipp.eu/publication/comportement-des-donateurs-fortunes-le-poids-des-motivations-politiques/)
