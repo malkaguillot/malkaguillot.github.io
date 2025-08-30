@@ -33,7 +33,7 @@ Working papers
 ------
 
 - *Should Charitable and Political Donations Benefit from Similar Tax Treatments? Evidence from a Survey Experiment*,
-  with Julia Cagé (Science po) and Yuchen Huang (Université de Liège). R&R Journal of Public Economics
+  with Julia Cagé (Science po) and Yuchen Huang (Université de Liège).
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5420135)
 
 - *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
