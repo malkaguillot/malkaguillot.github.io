@@ -1,3 +1,9 @@
+---
+title: "Publications"
+output: pdf_document
+permalink: /publications/
+layout: archive
+---
 
 ## Publications in international peer-reviewed journals
 
