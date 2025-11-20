@@ -6,13 +6,18 @@ permalink: /teaching/
 ---
 
 **Office hours**: Master students from HEC Liège can book a 1:1 meeting with me [here](https://doodle.com/meeting/organize/id/bqZyxo0d). 
-
-- 2022 - :
-  - [Public policy seminar](https://www.programmes.uliege.be/cocoon/20222023/cours/ECON2310-1.html) (graduate)
-- 2021 - :
-  - [Data management](https://www.programmes.uliege.be/cocoon/20212022/en/cours/ECON2306-1.html) (graduate): [github page 2022](https://malkaguillot.github.io/ECON2206-Data-Management-2022/), [github page 2023](https://malkaguillot.github.io/ECON2206-Data-Management/) 
-  - [Time series](https://www.programmes.uliege.be/cocoon/20222023/cours/ECON2308-1.html) (graduate) 
-  - [Microeconomics & industrial economics](https://www.programmes.uliege.be/cocoon/20212022/cours/ECON2259-1.html) (undergraduate) 
+https://malkaguillot.github.io/econ0212/
+- 2025:
+  - [Foundations in Data Science and Machine Learning](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON0212-3.html) (graduate, Invited lecture, University of St Gallen) [Link to github page](https://malkaguillot.github.io/Foundations-in-Data-Science-and-Machine-Learning/) 
+- Since 2024:
+  - [Econometrics](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON0212-3.html) (undergraduate, University of Liège) [Link to lecture slides](https://malkaguillot.github.io/econ0212/) 
+- Since 2022:
+  - [Public policy seminar](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON2310-1.html) (graduate, University of Liège)
+- Since 2021:
+  - [Data management](https://www.programmes.uliege.be/cocoon/20252026/en/cours/ECON2306-1.html) (graduate, University of Liège): [Link to github page](https://malkaguillot.github.io/ECON2206-Data-Management/) 
+  - [Time series](https://www.programmes.uliege.be/cocoon/20222023/cours/ECON2308-1.html) (graduate, University of Liège) 
+- 2021 - 2023:
+  - [Microeconomics & industrial economics](https://www.programmes.uliege.be/cocoon/20212022/cours/ECON2259-1.html) (undergraduate, University of Liège) 
 
 - Summer 2021: Summer Institute in *[Computational Social Sciences](https://sicss.io/2021/ethzurich/)*
 
