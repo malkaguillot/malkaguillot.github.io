@@ -53,6 +53,8 @@ with Antoine Bozio, Marion Monnet, and Lucile Romanello,
 *Économie et Prévision* (2018)  
   - [**Link to the article**](https://www.cairn.info/revue-economie-et-prevision.htm)
 
+___
+
 - *Portée et limites du modèle Taxipp pour l’analyse redistributive des prélèvements obligatoires*  
 with Antoine Bozio, and Quentin Lafféter,  
 *Économie et Statistique* (2015)  
@@ -71,6 +73,7 @@ ___
 - *Reforming French housing benefits*,
   with Antoine Bozio, Gabrielle Fack, Julien Grenet, Marion Monnet and Lucile Romanello, Rapport IPP 10, 2015.
 [**Link**](https://www.ipp.eu/wp-content/uploads/2015/06/depart-retraite-fct-publique-etat-rapport-IPP-juin2015.pdf)
+
 ___
 
 - *​​Les allocations logement. Comment les réformer ?*,
@@ -86,13 +89,19 @@ ___
   with Mahdi Ben Jelloul, Antoine Bozio, Sophie Cottet, Marion Monnet and Lucile Romanello, IPP Policy Brief n°21, (2015).
 [**Link**](https://www.ipp.eu/wp-content/uploads/2015/11/n21-notesIPP-november2015.pdf)
 
+___
+
 - *Reforming French housing benefits: why not merging benefits?*,
   with Antoine Bozio, Gabrielle Fack, Julien Grenet, Marion Monnet and Lucile Romanello, IPP Policy Brief n°18 (2015).
 [**Link**](https://www.ipp.eu/wp-content/uploads/2015/06/n18-notesIPP-june2015.pdf)
 
+___
+
 - *1914-2014: one hundred years of French income tax*,
   with Mathias André, IPP Policy Brief n°13 (2014).
 [**Link**](https://www.ipp.eu/wp-content/uploads/2014/09/n12-notesIPP-july2014.pdf)
+
+___
 
 - *French Budget 2014: the impact of the new tax measures?*,
   with Antoine Bozio and Marianne Tenand, IPP Policy Brief n°9 (2013).
