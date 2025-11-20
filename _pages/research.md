@@ -17,7 +17,7 @@ permalink: /research/
 
 ## Working papers
 
-- *The Effect of Tax Incentives on Firms’ Charitable Donations in France*; with Julia CAGE (Sciences Po Paris), Agathe DENIS (Sciences Po Paris), Simon Muchard (Université Paris Dauphine-PSL, University of Copenhagen) and Camille URVOY (University of Mannheim). 
+- *Tax Incentives or Political Motivations? Evidence from Corporate Contributions*; with Julia CAGE (Sciences Po Paris), Agathe DENIS (Sciences Po Paris), Simon Muchard (Université Paris Dauphine-PSL, University of Copenhagen) and Camille URVOY (University of Mannheim). 
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5420274)
 
 - *Should Charitable and Political Donations Benefit from Similar Tax Treatments? Evidence from a Survey Experiment*,
