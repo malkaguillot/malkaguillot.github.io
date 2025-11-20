@@ -9,7 +9,7 @@ layout: archive
 
 - *Predistribution vs. Redistribution: Evidence from France and the U.S.*  
 with Antoine Bozio, Bertrand Garbinti, Jonathan Goupille-Lebret, and Thomas Piketty,  
-*AEJ: Applied Economics* (2024)  
+*AEJ: Applied Economics* (vol. 16, no. 2, 2024)  
   - [**Link to the article**](https://www.aeaweb.org/articles?id=10.1257/app.20220023)  
   - [CEPR Discussion Paper No. 15415](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=15415#), October 2020  
   - [WIL Working Paper](https://wid.world/document/inequality-and-redistribution-in-france-1990-2018-evidence-from-post-tax-distributional-national-accounts-dina-wid-world-working-paper-2018-10/), September 2018  
@@ -20,29 +20,29 @@ ___
 
 - *What lies behind France’s low level of income inequality?*,
 with Antoine Bozio, Maxime Tô and Lukas Puschnig,
-*Fiscal Studies* (2024)
+*Fiscal Studies* (vol. 45, 2024)
   - [**Link to the paper**](https://onlinelibrary.wiley.com/doi/10.1111/1475-5890.12390)
 
 ___
 
 - *The Contribution of Payroll Taxation to Wage Inequality in France*  
 with Antoine Bozio, and Thomas Breda,  
-*Journal of Public Economics* (2023)  
-  - [**Link to the article**](https://www.sciencedirect.com/journal/journal-of-public-economics/vol/226/suppl/C)
+*Journal of Public Economics* (vol. 226, 2023)  
+  - [**Link to the paper**](https://www.sciencedirect.com/science/article/abs/pii/S0047272723001688)
  
 ___
 
 - *French public finances through the financial crisis: it’s a long way to recovery*  
 with Mathias André, Antoine Bozio, and Louise Paul-Delvaux,  
-*Fiscal Studies* (2015)  
-  - [**Link to the article**](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-5890.2015.12075)
+*Fiscal Studies* (vol 36, 2015)  
+  - [**Link to the paper**](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-5890.2015.12075)
 
 ___
 
 - *The inner quality of an article: Will time tell?*  
 with Ho Fai Chan, Lionel Page, and Benno Torgler,  
-*Scientometrics* (2015)  
-  - [**Link to the article**](https://link.springer.com/article/10.1007/s11192-015-1581-y)
+*Scientometrics* (vol. 104, 2015)  
+  - [**Link to the paper**](https://link.springer.com/article/10.1007/s11192-015-1581-y)
 
 ___
 
@@ -51,14 +51,14 @@ ___
 - *Designing Housing Benefits: An Application with French Data*  
 with Antoine Bozio, Marion Monnet, and Lucile Romanello,  
 *Économie et Prévision* (2018)  
-  - [**Link to the article**](https://www.cairn.info/revue-economie-et-prevision.htm)
+  - [**Link to the paper**](https://www.cairn.info/revue-economie-et-prevision.htm)
 
 ___
 
 - *Portée et limites du modèle Taxipp pour l’analyse redistributive des prélèvements obligatoires*  
 with Antoine Bozio, and Quentin Lafféter,  
 *Économie et Statistique* (2015)  
-  - [**Link to the article**](http://www.insee.fr/fr/ffc/docs_ffc/ES481B.pdf)
+  - [**Link to the paper**](http://www.insee.fr/fr/ffc/docs_ffc/ES481B.pdf)
 
 ___
 
