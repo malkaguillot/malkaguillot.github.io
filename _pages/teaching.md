@@ -5,8 +5,6 @@ permalink: /teaching/
 [//]: # author_profile: true
 ---
 
-**Office hours**: Master students from HEC Liège can book a 1:1 meeting with me [here](https://doodle.com/meeting/organize/id/bqZyxo0d). 
-https://malkaguillot.github.io/econ0212/
 - 2025:
   - [Foundations in Data Science and Machine Learning](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON0212-3.html) (graduate, Invited lecture, University of St Gallen) [Link to github page](https://malkaguillot.github.io/Foundations-in-Data-Science-and-Machine-Learning/) 
 - Since 2024:
