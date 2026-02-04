@@ -6,8 +6,8 @@ permalink: /research/
 ---
 
 ## Under review
-- *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*,
-  with Julia Cagé (Science po). R&R *Journal of Public Economics*
+- *Do the Rich Substitute Political Giving for Charitable Giving?* with Julia Cagé (Science po), Accepted *Journal of Public Economics* 
+  - Previously circulated under the following title *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
   - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
   - [IPP policy brief](https://www.ipp.eu/publication/comportement-des-donateurs-fortunes-le-poids-des-motivations-politiques/)
