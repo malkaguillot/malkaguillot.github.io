@@ -35,7 +35,7 @@ permalink: /research/
 - *Wage Incidence: Evidence from a Sectoral Tax in France*, with Sophie Cottet (University of Stavanger)
 - *Ownership Changes and News Production*, with Agathe Denis (Sciences Po  Paris), Julia Cagé (Sciences Po  Paris), and Elisa Mougin (ENS Lyon).
 
-## Reseaarch projects
+## Research projects
 
 - Project partner "Institutional Foundations of Industrialization, Financialization, and Globalization of the Swiss Economy. Evidence from 140 Years of the Commercial Registry". Sinergia Project joint with Elliott Ash (ETH), Marco d'Ambros (USI) and Tina Freyburg (UNISG). [[Project description](https://data.snf.ch/grants/grant/209465)].
 - Project partner "Tax-benefit design and family composition: trading off efficiency and equity". ARC Project (Saint-Louis University Bruxelles) joint with Marc Bourgeois (Liège University), Koen Declercq (USLB), Sabine Garoy (Liège University) Hélène Latzer (USLB), Tom Truyts (USLB).
