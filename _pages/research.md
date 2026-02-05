@@ -6,7 +6,7 @@ permalink: /research/
 ---
 
 ## Under review
-- *Do the Rich Substitute Political Giving for Charitable Giving?* with Julia Cagé (Science po), Accepted *Journal of Public Economics* 
+- *Do the Rich Substitute Political Giving for Charitable Giving?* with Julia Cagé  (Sciences Po  Paris), Accepted *Journal of Public Economics* 
   - Previously circulated under the following title *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
   - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
@@ -23,6 +23,7 @@ permalink: /research/
 - *Should Charitable and Political Donations Benefit from Similar Tax Treatments? Evidence from a Survey Experiment*,
   with Julia Cagé (Sciences Po Paris) and Yuchen Huang (Université de Liège).
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5420135)
+  - [CESifo Working Paper #12444](https://www.ifo.de/en/cesifo/publications/2026/working-paper/should-charitable-and-political-donations-benefit-similar-tax).
 
 - *Tax Incidence Among the Working Superrich. Evidence From the French 75% Tax on Millionaires*,
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3412261), [slides](https://www.dropbox.com/s/tbb8ha8opydcemv/guillot2020_75tax_slides_handout.pdf?dl=0)
@@ -30,10 +31,9 @@ permalink: /research/
 ## Work in progress
 
 - *Unpacking Trans-Atlantic Income Inequality*, with a large team
-- *From Ballots to Business: How Legislative Elections Fuel Intergenerational Entrepreneurial Success in Switzerland*, with Olimpia Cutinelli-Rendina
-- *Wage Incidence: Evidence from a Sectoral Tax in France*, with Sophie Cottet 
-- *Journalism Quality*,
-  with Elliott Ash, Julia Cagé and Nicolas Hervé
+- *From Ballots to Business: How Legislative Elections Fuel Intergenerational Entrepreneurial Success in Switzerland*, with Olimpia Cutinelli-Rendina (Strasbourg University)
+- *Wage Incidence: Evidence from a Sectoral Tax in France*, with Sophie Cottet (University of Stavanger)
+- *Ownership Changes and News Production*, with Agathe Denis (Sciences Po  Paris), Julia Cagé (Sciences Po  Paris), and Elisa Mougin (ENS Lyon).
 
 ## Reseaarch projects
 
