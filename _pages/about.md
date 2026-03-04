@@ -17,9 +17,8 @@ Position
 
 Research interests
 ------
-- Public Finance
-- Labor Economics
-
+- Political Economie
+- Public Economics
 
 Contact
 ------
