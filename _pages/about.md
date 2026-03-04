@@ -17,7 +17,7 @@ Position
 
 Research interests
 ------
-- Political Economie
+- Political Economy
 - Public Economics
 
 Contact
