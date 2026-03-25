@@ -7,6 +7,15 @@ layout: archive
 
 ## Publications in international peer-reviewed journals
 
+- *Do the Rich Substitute Political Giving for Charitable Giving?* with Julia Cagé  (Sciences Po  Paris), 
+*Journal of Public Economics* (vol. 256, 2026)
+  - Previously circulated under the following title *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*
+  - [**Link to the article**](https://www.sciencedirect.com/science/article/pii/S0047272726000289)
+  - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
+  - [IPP policy brief](https://www.ipp.eu/publication/comportement-des-donateurs-fortunes-le-poids-des-motivations-politiques/)
+  - [VoxEU column](https://cepr.org/voxeu/columns/wealthy-donors-give-charities-partly-political-reasons)
+  - Press coverage: [Le Monde](https://www.lemonde.fr/politique/article/2023/03/14/les-dons-philanthropiques-un-outil-politique-pour-les-plus-fortunes_6165378_823448.html), [Les Echos](https://www.lesechos.fr/economie-france/budget-fiscalite/comment-la-reforme-de-lisf-a-modifie-le-comportement-des-riches-donateurs-1914872), [datagora](https://datagora.fr/#/categorie/economie/1edce088-96a9-6e98-a4e1-d97e99002162)
+ 
 - *Predistribution vs. Redistribution: Evidence from France and the U.S.*  
 with Antoine Bozio, Bertrand Garbinti, Jonathan Goupille-Lebret, and Thomas Piketty,  
 *AEJ: Applied Economics* (vol. 16, no. 2, 2024)  
