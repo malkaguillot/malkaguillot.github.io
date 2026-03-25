@@ -15,7 +15,9 @@ layout: archive
   - [IPP policy brief](https://www.ipp.eu/publication/comportement-des-donateurs-fortunes-le-poids-des-motivations-politiques/)
   - [VoxEU column](https://cepr.org/voxeu/columns/wealthy-donors-give-charities-partly-political-reasons)
   - Press coverage: [Le Monde](https://www.lemonde.fr/politique/article/2023/03/14/les-dons-philanthropiques-un-outil-politique-pour-les-plus-fortunes_6165378_823448.html), [Les Echos](https://www.lesechos.fr/economie-france/budget-fiscalite/comment-la-reforme-de-lisf-a-modifie-le-comportement-des-riches-donateurs-1914872), [datagora](https://datagora.fr/#/categorie/economie/1edce088-96a9-6e98-a4e1-d97e99002162)
- 
+
+___
+
 - *Predistribution vs. Redistribution: Evidence from France and the U.S.*  
 with Antoine Bozio, Bertrand Garbinti, Jonathan Goupille-Lebret, and Thomas Piketty,  
 *AEJ: Applied Economics* (vol. 16, no. 2, 2024)  
