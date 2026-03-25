@@ -7,6 +7,9 @@ permalink: /research/
 
 ## Working papers
 
+- *Driving Change: The Impact of Low Emission Zones on Commuting Behaviors*; with Astrid Adam (UCLouvain Saint Louis Bruxelles), and Pauline Colle (University of Liège). 
+  - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6431961)
+
 - *Tax Incentives or Political Motivations? Evidence from Corporate Contributions*; with Julia CAGE (Sciences Po Paris), Agathe DENIS (Sciences Po Paris), Simon Muchard (Université Paris Dauphine-PSL, University of Copenhagen) and Camille URVOY (University of Mannheim). 
   - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5420274)
 
