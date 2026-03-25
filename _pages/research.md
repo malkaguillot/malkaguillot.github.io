@@ -5,16 +5,6 @@ permalink: /research/
 [//]: # author_profile: true
 ---
 
-## Under review
-- *Do the Rich Substitute Political Giving for Charitable Giving?* with Julia Cagé  (Sciences Po  Paris), Accepted *Journal of Public Economics* 
-  - Previously circulated under the following title *Is Charitable Giving Political? New Evidence from Wealth and Income Tax Returns*
-  - [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881112)
-  - [CEPR Discussion paper #17597](https://cepr.org/publications/dp17597)
-  - [IPP policy brief](https://www.ipp.eu/publication/comportement-des-donateurs-fortunes-le-poids-des-motivations-politiques/)
-  - [VoxEU column](https://cepr.org/voxeu/columns/wealthy-donors-give-charities-partly-political-reasons)
-  - Press coverage: [Le Monde](https://www.lemonde.fr/politique/article/2023/03/14/les-dons-philanthropiques-un-outil-politique-pour-les-plus-fortunes_6165378_823448.html), [Les Echos](https://www.lesechos.fr/economie-france/budget-fiscalite/comment-la-reforme-de-lisf-a-modifie-le-comportement-des-riches-donateurs-1914872), [datagora](https://datagora.fr/#/categorie/economie/1edce088-96a9-6e98-a4e1-d97e99002162)
- 
-
 ## Working papers
 
 - *Tax Incentives or Political Motivations? Evidence from Corporate Contributions*; with Julia CAGE (Sciences Po Paris), Agathe DENIS (Sciences Po Paris), Simon Muchard (Université Paris Dauphine-PSL, University of Copenhagen) and Camille URVOY (University of Mannheim). 
