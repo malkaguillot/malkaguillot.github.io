@@ -11,8 +11,8 @@ redirect_from:
 Position
 ------
 
-- Associate professor - HEC Liège, Université de Liège, Belgique.
-- Invited researcher at the Center for Applied Public Economics (CAPE) at the UCLouvain Saint-Louis - Bruxelles
+- Professor - Université Grenoble Alpes, France.
+  - 5% affiliation to HEC Liège, Université de Liège, Belgique.
 - Research affiliate at the Institut des politiques publiques (IPP) - Paris, France.
 
 Research interests
@@ -25,6 +25,6 @@ Contact
 
 [mguillot@uliege.be]()
 
-Bât. N1 UER Economie\
-Rue Louvrex 14\
-4000 Liège - Belgique
+GAEL - Batiment BATEG, 2e étage\
+1241 rue des résidences (Domaine Universitaire)\
+38400 Saint-Martin-d'Hères, France\
