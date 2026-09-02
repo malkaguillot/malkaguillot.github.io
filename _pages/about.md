@@ -23,7 +23,7 @@ Research interests
 Contact
 ------
 
-[mguillot@uliege.be]()
+[malka.guillot@univ-grenoble-alpes.fr]()
 
 GAEL - Batiment BATEG, 2e étage\
 1241 rue des résidences (Domaine Universitaire)\
