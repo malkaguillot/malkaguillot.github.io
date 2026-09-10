@@ -27,4 +27,4 @@ Contact
 
 GAEL - Batiment BATEG, 2e étage\
 1241 rue des résidences (Domaine Universitaire)\
-38400 Saint-Martin-d'Hères, France\
+38400 Saint-Martin-d'Hères, France
