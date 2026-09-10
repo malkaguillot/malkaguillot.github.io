@@ -5,13 +5,15 @@ permalink: /teaching/
 [//]: # author_profile: true
 ---
 
+-2026:
+  - [La transition en chiffres](https://malkaguillot.github.io/L3-chiffres-climat/) (L3, Grenoble Alpes university)
 - 2025:
   - [Foundations in Data Science and Machine Learning](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON0212-3.html) (graduate, Invited lecture, University of St Gallen) [Link to github page](https://malkaguillot.github.io/Foundations-in-Data-Science-and-Machine-Learning/) 
-- Since 2024:
+- 2024-2026:
   - [Econometrics](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON0212-3.html) (undergraduate, University of Liège) [Link to lecture slides](https://malkaguillot.github.io/econ0212/) 
-- Since 2022:
+- 2022-2026:
   - [Public policy seminar](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON2310-1.html) (graduate, University of Liège)
-- Since 2021:
+- 2021-2026:
   - [Data management](https://www.programmes.uliege.be/cocoon/20252026/en/cours/ECON2306-1.html) (graduate, University of Liège): [Link to github page](https://malkaguillot.github.io/ECON2206-Data-Management/) 
   - [Time series](https://www.programmes.uliege.be/cocoon/20222023/cours/ECON2308-1.html) (graduate, University of Liège) 
 - 2021 - 2023:
