@@ -5,7 +5,8 @@ permalink: /teaching/
 [//]: # author_profile: true
 ---
 
--2026:
+- 2026:
+  - [Analyses quantitatives des données]() (M1, Grenoble Alpes university)
   - [La transition en chiffres](https://malkaguillot.github.io/L3-chiffres-climat/) (L3, Grenoble Alpes university)
 - 2025:
   - [Foundations in Data Science and Machine Learning](https://www.programmes.uliege.be/cocoon/20252026/cours/ECON0212-3.html) (graduate, Invited lecture, University of St Gallen) [Link to github page](https://malkaguillot.github.io/Foundations-in-Data-Science-and-Machine-Learning/) 
